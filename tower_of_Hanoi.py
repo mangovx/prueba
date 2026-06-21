@@ -38,4 +38,4 @@ if modo == '2':
     automatico(altura, 0, 2)
 
 
-print('no quiero mas memes')
+print('luquitas')
