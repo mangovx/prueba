@@ -36,3 +36,6 @@ while modo == '1':
 
 if modo == '2':
     automatico(altura, 0, 2)
+
+
+print('el pepe')
