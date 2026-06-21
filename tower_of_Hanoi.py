@@ -38,4 +38,4 @@ if modo == '2':
     automatico(altura, 0, 2)
 
 
-print('el pepe')
+print('eso tilin')
